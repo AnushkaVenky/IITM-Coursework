@@ -1,2 +1,2 @@
-# ME6151-CHFF
-This repository contains the assignment codes and the solver I created for the final project for the Computational Heat and Fluid Flow course at IITM 
+# IITM Coursework
+This repository contains assignment and project from various courses I took in IITM 
