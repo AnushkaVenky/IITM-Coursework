@@ -1,2 +1,2 @@
 # IITM Coursework
-This repository contains assignment and project from various courses I took in IITM 
+This repository contains assignments and projects from various courses I took in IITM 
